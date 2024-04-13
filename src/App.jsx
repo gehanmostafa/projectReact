@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import MainContant from "./Component/MainContant";
 import { Container } from "@mui/material";
-import { light } from "@mui/material/styles/createPalette";
+
 
 function App() {
   const [mode, setMode] = useState(
